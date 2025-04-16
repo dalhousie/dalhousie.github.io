@@ -1,4 +1,4 @@
-dalhousie.github.io
+Dalhousie University
 ===================
 
-Dalhousie University
+dalhousie.github.io
