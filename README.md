@@ -1,4 +1,4 @@
 Dalhousie University
 ===================
 
-dalhousie.github.io
+https://dal.ca
